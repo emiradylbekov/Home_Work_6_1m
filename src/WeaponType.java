@@ -1,6 +1,6 @@
 public enum WeaponType {
     FIREARMS(),
 
-    STEEL_ARMS(),
-    COLD()
+    CHEMICAL(),
+    STEEL_ARMS()
 }
